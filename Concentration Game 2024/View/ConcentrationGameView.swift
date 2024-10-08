@@ -2,6 +2,9 @@
 //  ConcentrationGameView.swift
 //  Concentration Game 2024
 //
+//  This app mostly follows the app designed and taught by
+//  Paul Hegarty, instructor of CS193p at Stanford.
+//
 //  Created by Stephen Liddle on 10/8/24.
 //
 
